@@ -17,6 +17,11 @@ sudo systemctl status docker
 
 #con esto terminamos de instalar docker
 
+
+#esta herramienta es de ellos
+
+ curl -sSL https://get.docker.com/ | sh
+
 #Creamos usuario para que use docker sin sudo
 
 sudo usermod -aG docker ${USER}
