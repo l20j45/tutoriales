@@ -1,20 +1,20 @@
-#Ver programas instalados
+### Ver programas instalados
 
-cat /var/log/dpkg.log | grep "install"
+`cat /var/log/dpkg.log | grep "install"`
 
-grep " install " /var/log/dpkg.log
+`grep " install " /var/log/dpkg.log`
 
-#para apt
-apt list --installed
+### para apt
+`apt list --installed`
 
-#para ver con dpkg
-dpkg -l
+### para ver con dpkg
+`dpkg -l`
 
+### ver los servicios corriendo en service
 
-#ver los servicios corriendo en service
+`service --status-all | grep '\[ + \]'`
 
-service --status-all | grep '\[ + \]'
+### ver todos los servicios
 
-#ver todos los servicios
+`service --status-all`
 
-service --status-all
