@@ -16,7 +16,7 @@
    - **prendemos**
 	  - `sudo systemctl start apache`
 
-### instalamos mariadb db server, y maria db cliente que sera el SGDB
+### instalamos mariadb db server, y maria db cliente que sera el SGDB este usara el puerto 3306
 
 `sudo apt install mariadb-server mariadb-client`
 
