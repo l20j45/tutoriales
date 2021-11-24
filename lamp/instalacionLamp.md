@@ -26,7 +26,7 @@
   - *detener**
      - `sudo /etc/init.d/mysql stop`
   - **iniciar**		
-    		`sudo /etc/init.d/mysql start`
+     - `sudo /etc/init.d/mysql start`
 - **systemctl**
      - *detener**
           -  `sudo systemctl stop mysqld`
