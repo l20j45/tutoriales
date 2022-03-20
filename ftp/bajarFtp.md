@@ -36,6 +36,4 @@ mirror --delete --verbose --ignore-time --parallel=4"
 
 listo con esto tenemos un script que baja las cosas via ftp a un servidor sin ssl o con SSL segun sea la configuracion
 
-
-
 basicamente es lo mismo que el otro pero solo ponesmo el Reverse o no
