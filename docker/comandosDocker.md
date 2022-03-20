@@ -289,4 +289,4 @@ docker system prune [opciones]
 
 - Ejemplo: Eliminar volúmenes  
   
-  - docker system prune --volumes
+  - `docker system prune --volumes`

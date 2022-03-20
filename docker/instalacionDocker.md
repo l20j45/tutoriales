@@ -1,4 +1,5 @@
 ### Instalando docker
+
 `sudo apt update`
 
 `sudo apt install apt-transport-https ca-certificates curl software-properties-common`
@@ -30,5 +31,24 @@
 `id -nG`
 
 **esto con el usuario si no es el nuestro**
-		`sudo usermod -aG docker username`
+        `sudo usermod -aG docker username`
 
+Instalar docker-compose
+
+baja el script a usr/bin
+
+```
+ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+```
+
+Le damos acceso de ejecucion
+
+```
+sudo chmod +x /usr/local/bin/docker-compose
+```
+
+Comprobamos que este instalado
+
+```
+docker-compose --version
+```
