@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "bf65673a1b68e766",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c9e6d462afcc4d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Diarias/23-11-2022.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd3dc585914a0623",
+    "type": "split",
+    "children": [
+      {
+        "id": "90a1be5d866f6542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58187ab129f2e7a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eaf6fdc4facee85d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ubuntu",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bddac981a2e89a46",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c05fe12b2f53c6ee",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 531
+  },
+  "right": {
+    "id": "1fc91e4703cc72a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "502685f65589c5cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddff7bd93e297a82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diarias/23-11-2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b4620e403226f543",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diarias/23-11-2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09102c7a5bec9eab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c9d11ac6f418125",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diarias/23-11-2022.md"
+              }
+            }
+          },
+          {
+            "id": "d370c90b28689567",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "49139b0d40407d13",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410,
+    "collapsed": true
+  },
+  "active": "c05fe12b2f53c6ee",
+  "lastOpenFiles": [
+    "Codigos/Programas Utiles/Linux/Untitled.md",
+    "Codigos/Programas Utiles/Linux/SnapPdftoppm, convierte archivos PDF en imágenes.md",
+    "Codigos/Programas Utiles/Sql/Untitled.md",
+    "Codigos/Programas Utiles/Sql/PHP-MYSQL-DIFF.md",
+    "Utilidades/Peliculas por ver.md",
+    "Media DB/Peliculas/Bodies Bodies Bodies.md",
+    "Diarias/13-10-2022.md",
+    "Diarias/12-10-2022.md",
+    "Diarias/11-10-2022.md",
+    "Codigos/Tutoriales en mente/Php/tutorial Laravel/rutas/Carpetas y rutas laravel.md"
+  ]
+}

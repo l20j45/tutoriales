@@ -1,0 +1,10 @@
+{
+  "interfaceFontFamily": "Hack Nerd Font",
+  "textFontFamily": "Hack Nerd Font",
+  "monospaceFontFamily": "Hack Nerd Font Mono",
+  "baseFontSize": 25,
+  "cssTheme": "Obsidian Nord",
+  "translucency": false,
+  "accentColor": "",
+  "nativeMenus": true
+}

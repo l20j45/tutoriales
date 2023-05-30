@@ -1,0 +1,139 @@
+{
+  "choices": [
+    {
+      "id": "6506e587-fc03-4f66-a9b5-21835cac28e3",
+      "name": "add movie",
+      "type": "Macro",
+      "command": true,
+      "macroId": "1d8cb5ad-e3c2-4d6c-a419-202e9ce295ce"
+    },
+    {
+      "id": "447668fb-84fd-45e2-815c-61dafa34d460",
+      "name": "add book",
+      "type": "Macro",
+      "command": true,
+      "macroId": "116cc851-6b49-4c32-8513-e420e81c5c20"
+    }
+  ],
+  "macros": [
+    {
+      "name": "lookup movie",
+      "id": "1d8cb5ad-e3c2-4d6c-a419-202e9ce295ce",
+      "commands": [
+        {
+          "name": "movie",
+          "type": "UserScript",
+          "id": "aac76123-a430-4994-9e18-5f25958dfefb",
+          "path": "Utilidades/movie.js",
+          "settings": {
+            "OMDb API Key": "369110d3"
+          }
+        },
+        {
+          "name": "movies",
+          "type": "NestedChoice",
+          "id": "808ab65c-5506-4d5d-a908-ed49bf882ad5",
+          "choice": {
+            "id": "3b8b0ee1-ac79-4514-a3a3-aaf43fb59cfe",
+            "name": "movies",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Plantillas/movieTemplate.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Media DB/Peliculas",
+                "Media DB/Series"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "source"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "lookup book",
+      "id": "116cc851-6b49-4c32-8513-e420e81c5c20",
+      "commands": [
+        {
+          "name": "books",
+          "type": "UserScript",
+          "id": "1657211a-93f0-4c76-96c3-67a1add45afc",
+          "path": "Utilidades/books.js",
+          "settings": {
+            "Google Books API Key": "AIzaSyDbhVegceZs-DpAJ58M0qdlIXZZB96lcdU"
+          }
+        },
+        {
+          "name": "books template",
+          "type": "NestedChoice",
+          "id": "97718829-5e7a-4e61-b7df-26286b7c9c51",
+          "choice": {
+            "id": "c9448d5c-2abf-426b-b30c-08235e542f37",
+            "name": "books template",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Plantillas/bookTemplate.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Media DB/Libros"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.0.2",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

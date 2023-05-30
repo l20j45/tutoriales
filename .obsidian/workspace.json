@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "bf65673a1b68e766",
+    "type": "split",
+    "children": [
+      {
+        "id": "abf27bf56afc3788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1738889ff97f50d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2c64b4bc1b6c136",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd3dc585914a0623",
+    "type": "split",
+    "children": [
+      {
+        "id": "90a1be5d866f6542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58187ab129f2e7a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eaf6fdc4facee85d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "migra",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bddac981a2e89a46",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c05fe12b2f53c6ee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "438fd14c11a279b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c83ff2a5546c4ef",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "04777eab1cd391aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 531
+  },
+  "right": {
+    "id": "1fc91e4703cc72a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "502685f65589c5cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddff7bd93e297a82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b4620e403226f543",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09102c7a5bec9eab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c9d11ac6f418125",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d370c90b28689567",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fbbc0500a50182b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-tweet-to-markdown:Tweet to Markdown": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "1738889ff97f50d0",
+  "lastOpenFiles": [
+    "Diarias/25-05-2023.md",
+    "Untitled.canvas",
+    "Diarias/15-05-2023.md",
+    "Diarias/26-04-2023.md",
+    "Diarias/27-03-2023.md",
+    "Media DB/Naruto - Road of Naruto (2022).md",
+    "Codigos/Tutoriales en mente/Php/tutorial Laravel/migraciones/migraciones.md",
+    "Diarias/14-03-2023.md",
+    "Codigos/Tutoriales en mente/Linux/Lamp/Que es Lamp.md",
+    "Diarias/13-03-2023.md",
+    "Codigos/Tutoriales en mente/Linux/Lamp/Instalacion php.md",
+    "Codigos/Tutoriales en mente/Linux/Lamp/Instalacion Mysql-mariadb.md",
+    "Codigos/Tutoriales en mente/Linux/Lamp/Instalacion Apache2.md",
+    "Codigos/Tutoriales en mente/Linux/Lamp/Instalaciones Lamp.md",
+    "Codigos/Tutoriales en mente/Linux/Lamp/Mysql-Mariadb.md",
+    "Codigos/Tutoriales en mente/Linux/Lamp/Php.md",
+    "Diarias/02-02-2023.md",
+    "Codigos/Tutoriales en mente/Php/tutorial Laravel/controladores/Controladores Laravel.md",
+    "Codigos/Tutoriales en mente/Php/tutorial Laravel/migraciones/Tipos de datos en las migraciones.md"
+  ]
+}

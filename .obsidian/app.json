@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileFolderPath": "Diario"
+}
