@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80d3ff440c008dea",
+        "id": "28d6ed12a04abb77",
         "type": "tabs",
         "children": [
           {
-            "id": "48cb444ea8ecb942",
+            "id": "59c26a643ece71d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grails/1.- Grails Inicio.md",
+                "file": "Angular/1.- Crear un proyecto.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grails/1.- Grails Inicio.md",
+                "file": "Angular/1.- Crear un proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grails/1.- Grails Inicio.md",
+                "file": "Angular/1.- Crear un proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grails/1.- Grails Inicio.md"
+                "file": "Angular/1.- Crear un proyecto.md"
               }
             }
           },
@@ -204,14 +204,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48cb444ea8ecb942",
+  "active": "59c26a643ece71d0",
   "lastOpenFiles": [
-    "Grails/Untitled.md",
-    "Grails/3.1.- Logger.md",
-    "Grails/3.2.-  configuracion mysql.md",
     "Grails/3.- Configuraciones extra.md",
+    "Grails/3.1.- Logger.md",
+    "Grails/3.3.- Bootstrap de informacion.md",
+    "Grails/3.2.-  configuracion mysql.md",
+    "Grails/attachments/application.yml",
+    "Grails/attachments",
+    "Grails/2.4.- Servicios.md",
+    "Grails/2.3.- UrlMapping.md",
+    "Grails/2.2- Controlador.md",
+    "Grails/2.1- Modelos.md",
     "Grails/2.- Generado en automatico.md",
+    "Grails/1.5- Crear proyecto de grails.md",
+    "Media DB/series/Lost (2004–2010).md",
+    "Media DB/series",
+    "Media DB",
+    "Plantillas/GrailsCode.md",
+    "Plantillas/bashCode.md",
+    "Plantillas/pythonCode.md",
     "Grails/1.- Grails Inicio.md",
+    "Grails/Untitled.md",
     "Grails",
     "Angular/1.- Crear un proyecto.md",
     "Angular",
@@ -223,16 +237,6 @@
     "Media DB/Naruto - Road of Naruto (2022).md",
     "Codigos/Tutoriales en mente/Php/tutorial Laravel/migraciones/migraciones.md",
     "Diarias/14-03-2023.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Que es Lamp.md",
-    "Diarias/13-03-2023.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Instalacion php.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Instalacion Mysql-mariadb.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Instalacion Apache2.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Instalaciones Lamp.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Mysql-Mariadb.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Php.md",
-    "Diarias/02-02-2023.md",
-    "Codigos/Tutoriales en mente/Php/tutorial Laravel/controladores/Controladores Laravel.md",
-    "Codigos/Tutoriales en mente/Php/tutorial Laravel/migraciones/Tipos de datos en las migraciones.md"
+    "Codigos/Tutoriales en mente/Linux/Lamp/Que es Lamp.md"
   ]
 }
