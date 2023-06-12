@@ -4,15 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "80d3ff440c008dea",
+        "id": "c2de0602d9bae743",
         "type": "tabs",
         "children": [
           {
-            "id": "48cb444ea8ecb942",
+            "id": "2af3b245256b2424",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Grails/3.2.-  configuracion mysql.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f91e49c2c7a0055e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
             }
           }
         ],
@@ -114,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Grails/3.2.-  configuracion mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Grails/3.2.-  configuracion mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Grails/3.2.-  configuracion mysql.md"
+              }
             }
           },
           {
@@ -195,16 +214,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48cb444ea8ecb942",
+  "active": "2af3b245256b2424",
   "lastOpenFiles": [
-    "Grails/Untitled.md",
-    "Grails/3.1.- Logger.md",
-    "Grails/3.2.-  configuracion mysql.md",
-    "Grails/3.- Configuraciones extra.md",
     "Grails/2.- Generado en automatico.md",
+    "Grails/3.- Configuraciones extra.md",
+    "Angular/2.- Interpolacion.md",
+    "Grails/3.2.-  configuracion mysql.md",
     "Grails/1.- Grails Inicio.md",
-    "Grails",
+    "Grails/3.1.- Logger.md",
+    "Angular/3.- Ng IF y Ng For.md",
+    "Angular/4.- Eventos.md",
+    "Plantillas/codeSegment.md",
+    "Plantillas/movieTemplate.md",
+    "Plantillas/tasks personales.md",
+    "Plantillas/tasks no hechos.md",
+    "Plantillas/task.md",
+    "Plantillas/Angular Code.md",
+    "Plantillas/phphonCode.md",
     "Angular/1.- Crear un proyecto.md",
+    "Grails/Untitled.md",
+    "Grails",
     "Angular",
     "Diarias/25-05-2023.md",
     "Untitled.canvas",
@@ -215,15 +244,6 @@
     "Codigos/Tutoriales en mente/Php/tutorial Laravel/migraciones/migraciones.md",
     "Diarias/14-03-2023.md",
     "Codigos/Tutoriales en mente/Linux/Lamp/Que es Lamp.md",
-    "Diarias/13-03-2023.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Instalacion php.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Instalacion Mysql-mariadb.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Instalacion Apache2.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Instalaciones Lamp.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Mysql-Mariadb.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Php.md",
-    "Diarias/02-02-2023.md",
-    "Codigos/Tutoriales en mente/Php/tutorial Laravel/controladores/Controladores Laravel.md",
-    "Codigos/Tutoriales en mente/Php/tutorial Laravel/migraciones/Tipos de datos en las migraciones.md"
+    "Diarias/13-03-2023.md"
   ]
 }

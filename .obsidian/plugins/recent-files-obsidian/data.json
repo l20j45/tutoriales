@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "3.2.-  configuracion mysql",
+      "path": "Grails/3.2.-  configuracion mysql.md"
+    },
+    {
+      "basename": "2.- Generado en automatico",
+      "path": "Grails/2.- Generado en automatico.md"
+    },
+    {
+      "basename": "3.- Configuraciones extra",
+      "path": "Grails/3.- Configuraciones extra.md"
+    },
+    {
+      "basename": "2.- Interpolacion",
+      "path": "Angular/2.- Interpolacion.md"
+    },
+    {
+      "basename": "1.- Grails Inicio",
+      "path": "Grails/1.- Grails Inicio.md"
+    },
+    {
+      "basename": "3.1.- Logger",
+      "path": "Grails/3.1.- Logger.md"
+    },
+    {
+      "basename": "3.- Ng IF y Ng For",
+      "path": "Angular/3.- Ng IF y Ng For.md"
+    },
+    {
+      "basename": "4.- Eventos",
+      "path": "Angular/4.- Eventos.md"
+    },
+    {
+      "basename": "codeSegment",
+      "path": "Plantillas/codeSegment.md"
+    },
+    {
+      "basename": "movieTemplate",
+      "path": "Plantillas/movieTemplate.md"
+    },
+    {
+      "basename": "tasks personales",
+      "path": "Plantillas/tasks personales.md"
+    },
+    {
+      "basename": "tasks no hechos",
+      "path": "Plantillas/tasks no hechos.md"
+    },
+    {
+      "basename": "task",
+      "path": "Plantillas/task.md"
+    },
+    {
+      "basename": "Angular Code",
+      "path": "Plantillas/Angular Code.md"
+    },
+    {
+      "basename": "phphonCode",
+      "path": "Plantillas/phphonCode.md"
+    },
+    {
+      "basename": "1.- Crear un proyecto",
+      "path": "Angular/1.- Crear un proyecto.md"
+    },
+    {
       "basename": "25-05-2023",
       "path": "Diarias/25-05-2023.md"
     },
@@ -135,66 +199,6 @@
     {
       "basename": "The Death of Dick Long",
       "path": "Media DB/Peliculas/The Death of Dick Long.md"
-    },
-    {
-      "basename": "19-11-2022",
-      "path": "Diarias/19-11-2022.md"
-    },
-    {
-      "basename": "bloquear autocad",
-      "path": "Enlaces de interes/Cad/bloquear autocad.md"
-    },
-    {
-      "basename": "Programas Cad",
-      "path": "Enlaces de interes/Cad/Programas Cad.md"
-    },
-    {
-      "basename": "Paginas De Tours Guadalajara",
-      "path": "Enlaces de interes/Paginas De Tours Guadalajara.md"
-    },
-    {
-      "basename": "08-11-2022",
-      "path": "Diarias/08-11-2022.md"
-    },
-    {
-      "basename": "31-10-2022",
-      "path": "Diarias/31-10-2022.md"
-    },
-    {
-      "basename": "Seniors 3000",
-      "path": "Media DB/Peliculas/Seniors 3000.md"
-    },
-    {
-      "basename": "PorLeer",
-      "path": "Utilidades/PorLeer.md"
-    },
-    {
-      "basename": "Peliculas por ver",
-      "path": "Utilidades/Peliculas por ver.md"
-    },
-    {
-      "basename": "No me tapes el sol",
-      "path": "Media DB/Libros/No me tapes el sol.md"
-    },
-    {
-      "basename": "bookTemplate",
-      "path": "Plantillas/bookTemplate.md"
-    },
-    {
-      "basename": "17-10-2022",
-      "path": "Diarias/17-10-2022.md"
-    },
-    {
-      "basename": "13-10-2022",
-      "path": "Diarias/13-10-2022.md"
-    },
-    {
-      "basename": "SnapPdftoppm, convierte archivos PDF en imágenes",
-      "path": "Codigos/Programas Utiles/Linux/SnapPdftoppm, convierte archivos PDF en imágenes.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Codigos/Programas Utiles/Sql/Untitled.md"
     }
   ],
   "omittedPaths": [],
