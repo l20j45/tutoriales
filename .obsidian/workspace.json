@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grails/3.2.-  configuracion mysql.md",
+                "file": "Grails/1.- Grails Inicio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grails/3.2.-  configuracion mysql.md",
+                "file": "Grails/1.- Grails Inicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grails/3.2.-  configuracion mysql.md",
+                "file": "Grails/1.- Grails Inicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grails/3.2.-  configuracion mysql.md"
+                "file": "Grails/1.- Grails Inicio.md"
               }
             }
           },
@@ -216,12 +216,24 @@
   },
   "active": "2af3b245256b2424",
   "lastOpenFiles": [
-    "Grails/2.- Generado en automatico.md",
-    "Grails/3.- Configuraciones extra.md",
-    "Angular/2.- Interpolacion.md",
-    "Grails/3.2.-  configuracion mysql.md",
+    "Grails/1.5- Crear proyecto de grails.md",
     "Grails/1.- Grails Inicio.md",
+    "Grails/2.- Generado en automatico.md",
+    "Grails/2.1- Modelos.md",
+    "Grails/2.2- Controlador.md",
+    "Grails/2.3.- UrlMapping.md",
+    "Grails/2.4.- Servicios.md",
     "Grails/3.1.- Logger.md",
+    "Grails/3.3.- Bootstrap de informacion.md",
+    "Grails/3.2.-  configuracion mysql.md",
+    "Grails/3.- Configuraciones extra.md",
+    "Plantillas/GrailsCode.md",
+    "Media DB/series/Lost (2004–2010).md",
+    "Media DB/series",
+    "Media DB",
+    "Grails/attachments/application.yml",
+    "Grails/attachments",
+    "Angular/2.- Interpolacion.md",
     "Angular/3.- Ng IF y Ng For.md",
     "Angular/4.- Eventos.md",
     "Plantillas/codeSegment.md",
@@ -236,14 +248,6 @@
     "Grails",
     "Angular",
     "Diarias/25-05-2023.md",
-    "Untitled.canvas",
-    "Diarias/15-05-2023.md",
-    "Diarias/26-04-2023.md",
-    "Diarias/27-03-2023.md",
-    "Media DB/Naruto - Road of Naruto (2022).md",
-    "Codigos/Tutoriales en mente/Php/tutorial Laravel/migraciones/migraciones.md",
-    "Diarias/14-03-2023.md",
-    "Codigos/Tutoriales en mente/Linux/Lamp/Que es Lamp.md",
-    "Diarias/13-03-2023.md"
+    "Untitled.canvas"
   ]
 }

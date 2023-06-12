@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "3.2.-  configuracion mysql",
-      "path": "Grails/3.2.-  configuracion mysql.md"
+      "basename": "1.- Grails Inicio",
+      "path": "Grails/1.- Grails Inicio.md"
+    },
+    {
+      "basename": "1.5- Crear proyecto de grails",
+      "path": "Grails/1.5- Crear proyecto de grails.md"
     },
     {
       "basename": "2.- Generado en automatico",
       "path": "Grails/2.- Generado en automatico.md"
+    },
+    {
+      "basename": "2.1- Modelos",
+      "path": "Grails/2.1- Modelos.md"
+    },
+    {
+      "basename": "2.2- Controlador",
+      "path": "Grails/2.2- Controlador.md"
+    },
+    {
+      "basename": "2.3.- UrlMapping",
+      "path": "Grails/2.3.- UrlMapping.md"
+    },
+    {
+      "basename": "2.4.- Servicios",
+      "path": "Grails/2.4.- Servicios.md"
+    },
+    {
+      "basename": "3.1.- Logger",
+      "path": "Grails/3.1.- Logger.md"
+    },
+    {
+      "basename": "3.3.- Bootstrap de informacion",
+      "path": "Grails/3.3.- Bootstrap de informacion.md"
+    },
+    {
+      "basename": "3.2.-  configuracion mysql",
+      "path": "Grails/3.2.-  configuracion mysql.md"
     },
     {
       "basename": "3.- Configuraciones extra",
@@ -15,14 +47,6 @@
     {
       "basename": "2.- Interpolacion",
       "path": "Angular/2.- Interpolacion.md"
-    },
-    {
-      "basename": "1.- Grails Inicio",
-      "path": "Grails/1.- Grails Inicio.md"
-    },
-    {
-      "basename": "3.1.- Logger",
-      "path": "Grails/3.1.- Logger.md"
     },
     {
       "basename": "3.- Ng IF y Ng For",
@@ -175,30 +199,6 @@
     {
       "basename": "07-01-2023",
       "path": "Diarias/07-01-2023.md"
-    },
-    {
-      "basename": "30-12-2022",
-      "path": "Diarias/30-12-2022.md"
-    },
-    {
-      "basename": "05-01-2023",
-      "path": "Diarias/05-01-2023.md"
-    },
-    {
-      "basename": "23-12-2022",
-      "path": "Diarias/23-12-2022.md"
-    },
-    {
-      "basename": "23-11-2022",
-      "path": "Diarias/23-11-2022.md"
-    },
-    {
-      "basename": "21-11-2022",
-      "path": "Diarias/21-11-2022.md"
-    },
-    {
-      "basename": "The Death of Dick Long",
-      "path": "Media DB/Peliculas/The Death of Dick Long.md"
     }
   ],
   "omittedPaths": [],
