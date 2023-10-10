@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c2de0602d9bae743",
+        "id": "f021b95b5d72d289",
         "type": "tabs",
         "children": [
           {
-            "id": "2af3b245256b2424",
+            "id": "a3b30d28e3d18226",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grails/1.- Grails Inicio.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f91e49c2c7a0055e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -129,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grails/1.- Grails Inicio.md",
+                "file": "Angular/1.- Crear un proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grails/1.- Grails Inicio.md",
+                "file": "Angular/1.- Crear un proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grails/1.- Grails Inicio.md"
+                "file": "Angular/1.- Crear un proyecto.md"
               }
             }
           },
@@ -187,6 +172,16 @@
             "state": {
               "type": "todo",
               "state": {}
+            }
+          },
+          {
+            "id": "28e026793ea15cb0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -214,14 +209,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2af3b245256b2424",
+  "active": "a3b30d28e3d18226",
   "lastOpenFiles": [
+    "Angular/4.- Eventos.md",
+    "Angular/2.- Interpolacion.md",
+    "Angular/1.- Crear un proyecto.md",
+    "Grails/2.3.- UrlMapping.md",
+    "Grails/2.1- Modelos.md",
+    "Grails/2.- Generado en automatico.md",
     "Grails/1.5- Crear proyecto de grails.md",
     "Grails/1.- Grails Inicio.md",
-    "Grails/2.- Generado en automatico.md",
-    "Grails/2.1- Modelos.md",
+    "Laravel/1.- Inicio.md",
+    "mysql/manejoDeUsuarios.md",
+    "mysql/Untitled.md",
+    "Laravel",
+    "mysql/mysqlDocker.md",
+    "mysql/respaldosMysql.md",
     "Grails/2.2- Controlador.md",
-    "Grails/2.3.- UrlMapping.md",
     "Grails/2.4.- Servicios.md",
     "Grails/3.1.- Logger.md",
     "Grails/3.3.- Bootstrap de informacion.md",
@@ -233,21 +237,13 @@
     "Media DB",
     "Grails/attachments/application.yml",
     "Grails/attachments",
-    "Angular/2.- Interpolacion.md",
     "Angular/3.- Ng IF y Ng For.md",
-    "Angular/4.- Eventos.md",
     "Plantillas/codeSegment.md",
     "Plantillas/movieTemplate.md",
     "Plantillas/tasks personales.md",
     "Plantillas/tasks no hechos.md",
-    "Plantillas/task.md",
-    "Plantillas/Angular Code.md",
-    "Plantillas/phphonCode.md",
-    "Angular/1.- Crear un proyecto.md",
-    "Grails/Untitled.md",
     "Grails",
     "Angular",
-    "Diarias/25-05-2023.md",
     "Untitled.canvas"
   ]
 }

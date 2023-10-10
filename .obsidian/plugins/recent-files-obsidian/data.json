@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "1.- Grails Inicio",
-      "path": "Grails/1.- Grails Inicio.md"
+      "basename": "1.- Crear un proyecto",
+      "path": "Angular/1.- Crear un proyecto.md"
     },
     {
-      "basename": "1.5- Crear proyecto de grails",
-      "path": "Grails/1.5- Crear proyecto de grails.md"
+      "basename": "3.- Ng IF y Ng For",
+      "path": "Angular/3.- Ng IF y Ng For.md"
     },
     {
-      "basename": "2.- Generado en automatico",
-      "path": "Grails/2.- Generado en automatico.md"
+      "basename": "4.- Eventos",
+      "path": "Angular/4.- Eventos.md"
+    },
+    {
+      "basename": "2.- Interpolacion",
+      "path": "Angular/2.- Interpolacion.md"
+    },
+    {
+      "basename": "PythonInicio",
+      "path": "python/PythonInicio.md"
+    },
+    {
+      "basename": "2.3.- UrlMapping",
+      "path": "Grails/2.3.- UrlMapping.md"
     },
     {
       "basename": "2.1- Modelos",
       "path": "Grails/2.1- Modelos.md"
     },
     {
-      "basename": "2.2- Controlador",
-      "path": "Grails/2.2- Controlador.md"
+      "basename": "2.- Generado en automatico",
+      "path": "Grails/2.- Generado en automatico.md"
     },
     {
-      "basename": "2.3.- UrlMapping",
-      "path": "Grails/2.3.- UrlMapping.md"
+      "basename": "1.5- Crear proyecto de grails",
+      "path": "Grails/1.5- Crear proyecto de grails.md"
+    },
+    {
+      "basename": "1.- Grails Inicio",
+      "path": "Grails/1.- Grails Inicio.md"
+    },
+    {
+      "basename": "1.- Inicio",
+      "path": "Laravel/1.- Inicio.md"
+    },
+    {
+      "basename": "manejoDeUsuarios",
+      "path": "mysql/manejoDeUsuarios.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "mysql/Untitled.md"
+    },
+    {
+      "basename": "mysqlDocker",
+      "path": "mysql/mysqlDocker.md"
+    },
+    {
+      "basename": "respaldosMysql",
+      "path": "mysql/respaldosMysql.md"
+    },
+    {
+      "basename": "2.2- Controlador",
+      "path": "Grails/2.2- Controlador.md"
     },
     {
       "basename": "2.4.- Servicios",
@@ -43,18 +83,6 @@
     {
       "basename": "3.- Configuraciones extra",
       "path": "Grails/3.- Configuraciones extra.md"
-    },
-    {
-      "basename": "2.- Interpolacion",
-      "path": "Angular/2.- Interpolacion.md"
-    },
-    {
-      "basename": "3.- Ng IF y Ng For",
-      "path": "Angular/3.- Ng IF y Ng For.md"
-    },
-    {
-      "basename": "4.- Eventos",
-      "path": "Angular/4.- Eventos.md"
     },
     {
       "basename": "codeSegment",
@@ -83,10 +111,6 @@
     {
       "basename": "phphonCode",
       "path": "Plantillas/phphonCode.md"
-    },
-    {
-      "basename": "1.- Crear un proyecto",
-      "path": "Angular/1.- Crear un proyecto.md"
     },
     {
       "basename": "25-05-2023",
@@ -175,30 +199,6 @@
     {
       "basename": "Angular",
       "path": "Codigos/Tutoriales en mente/Angular/Angular.md"
-    },
-    {
-      "basename": "26-01-2023",
-      "path": "Diarias/26-01-2023.md"
-    },
-    {
-      "basename": "21-01-2023",
-      "path": "Diarias/21-01-2023.md"
-    },
-    {
-      "basename": "14-01-2023",
-      "path": "Diarias/14-01-2023.md"
-    },
-    {
-      "basename": "09-01-2023",
-      "path": "Diarias/09-01-2023.md"
-    },
-    {
-      "basename": "Crear Modelos",
-      "path": "Codigos/Tutoriales en mente/Php/tutorial Laravel/modelos/Crear Modelos.md"
-    },
-    {
-      "basename": "07-01-2023",
-      "path": "Diarias/07-01-2023.md"
     }
   ],
   "omittedPaths": [],
