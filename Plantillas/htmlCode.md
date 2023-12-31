@@ -1,7 +1,7 @@
 ```ad-info
-icon: react
+icon: html5
 title: a
-~~~jsx
+~~~html
 
 ~~~
 
