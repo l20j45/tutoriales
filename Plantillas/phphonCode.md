@@ -1,5 +1,4 @@
 ```ad-info
-```ad-info
 icon: php
 title: a
 ~~~php
